@@ -1,1 +1,2 @@
-# Create-your-own-game
+# collisionAlgorithm
+Algorithm to detect collision between two objects
